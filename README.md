@@ -38,6 +38,19 @@ I love crafting clean and modern UI with efficient, maintainable code.
 
 ---
 
+## 🎓 Education
+
+<div align="left">
+
+**Kafr Elsheikh University** — *Oct. 2022 – Present*  
+**Faculty of Computers and Information** — *Computer Science Department*  
+- 🎯 **Senior Computer Science Student**  
+- 🎓 **Expected Graduation:** July 2026  
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Front-End Technologies
@@ -96,4 +109,3 @@ I love crafting clean and modern UI with efficient, maintainable code.
 ---
 
 ![Snake Animation](https://github.com/MohamedAhmedElshazly/MohamedAhmedElshazly/blob/output/snake-dark.svg)
-
