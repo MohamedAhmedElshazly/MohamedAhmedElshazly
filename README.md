@@ -96,3 +96,4 @@ I love crafting clean and modern UI with efficient, maintainable code.
 ---
 
 ![Snake Animation](https://github.com/MohamedAhmedElshazly/MohamedAhmedElshazly/blob/output/snake-dark.svg)
+
